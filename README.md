@@ -1,2 +1,2 @@
 ﻿# Portfolio
-My portfolio showcasing my proejects and basic information about me.
+My portfolio showcases my projects and basic information about me.
