@@ -1,2 +1,2 @@
-﻿# Portfolio
-My portfolio showcases my projects and basic information about me.
+﻿# Old Portfolio
+My old portfolio showcases my projects and basic information about me.
